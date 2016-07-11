@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/rlmcpherson/s3gof3r"
+	"s3sync"
 )
 
 type putOpts struct {

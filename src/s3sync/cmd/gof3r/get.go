@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/rlmcpherson/s3gof3r"
+	"s3sync"
 )
 
 type getOpts struct {

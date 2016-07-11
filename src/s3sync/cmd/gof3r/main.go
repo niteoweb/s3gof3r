@@ -37,8 +37,9 @@ import (
 	"runtime"
 	"time"
 
+	"s3sync"
+
 	"github.com/jessevdk/go-flags"
-	"github.com/rlmcpherson/s3gof3r"
 )
 
 const (

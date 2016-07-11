@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rlmcpherson/s3gof3r"
+	"s3sync"
 )
 
 type CpArg struct {

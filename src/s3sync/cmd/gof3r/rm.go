@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/rlmcpherson/s3gof3r"
+	"s3sync"
 )
 
 type rmOpts struct {
